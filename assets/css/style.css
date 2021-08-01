@@ -124,6 +124,14 @@ body {
   padding: 1rem 3rem;
 }
 
+.content-header {
+  color: #F6F1D1;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  padding: 1rem 3rem;
+}
+
 .check-button, .delete-button {
   background-color: #F6F1D1;
   border: none;
